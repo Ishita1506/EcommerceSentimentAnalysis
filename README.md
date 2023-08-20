@@ -5,7 +5,7 @@ In this project, an e-commerce platform dataset was analyzed. The dataset was ai
 Project Description
 The project aimed to conduct a comprehensive analysis of an e-commerce platform using the provided dataset. The dataset contained information about the products, customer reviews, purchase history, seller details, categories, and other relevant details. Valuable insights about customer behavior, popular products, seller performance, customer satisfaction, and overall platform performance were sought to be uncovered through various data analysis techniques.
 
-Module 1: Data Cleaning
+#### Module 1: Data Cleaning
 Task 1 Load the data
 
 Task 2 Find the duplicate values
@@ -18,7 +18,7 @@ Task 5 Remove the null values
 
 Task 6 Renaming the column names
 
-Module 2: Sentiment Analysis
+#### Module 2: Sentiment Analysis
 Task 1 Find the sentiment of the review
 
 Task 2 Processing the review
@@ -27,7 +27,7 @@ Task 3 Exporting the cleaned dataset
 
 Task 4 Generate tables using the cleaned dataset
 
-Module 3: SQL Queries
+#### Module 3: SQL Queries
 Task 1 How many values are there in the given dataset?
 
 Task 2 Find out the unique brands in the given dataset
