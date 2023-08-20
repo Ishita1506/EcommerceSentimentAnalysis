@@ -2,7 +2,7 @@
 
 In this project, an e-commerce platform dataset was analyzed. The dataset was aimed to be cleaned, and the given dataset was analyzed to mine informational insights using Python and MySQL.
 
-Project Description
+#### Project Description
 The project aimed to conduct a comprehensive analysis of an e-commerce platform using the provided dataset. The dataset contained information about the products, customer reviews, purchase history, seller details, categories, and other relevant details. Valuable insights about customer behavior, popular products, seller performance, customer satisfaction, and overall platform performance were sought to be uncovered through various data analysis techniques.
 
 #### Module 1: Data Cleaning
